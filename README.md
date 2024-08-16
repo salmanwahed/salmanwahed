@@ -21,10 +21,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salmanwahed&layout=compact&theme=radical)
   
 
-### 📈 GitHub Stats
-
+### ✨ GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=salmanwahed&theme=radical)](https://git.io/streak-stats)
+
+
+### 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=salmanwahed&show_icons=true&theme=radical)
+
 
 ### 🔗 Connect with me
 
