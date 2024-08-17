@@ -29,7 +29,7 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=salmanwahed&show_icons=true&theme=radical)
 
 
-### 🌐 Connect with me
+### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/salmanwahed)
 [![X](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x)](https://x.com/salman_wahed)
