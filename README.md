@@ -5,10 +5,10 @@
 **Hello! I'm Salman Wahed**, a passionate software engineer with a love for building scalable web and mobile applications, and exploring new technologies..
 
 ### 🌟 Key Interests
-- **Web Development**: Crafting responsive and dynamic user experiences using frameworks like React and Vue.js.
 - **Backend Engineering**: Designing robust APIs and services with Django, Flask and Spring Boot.
 - **Mobile Application Development**: Developing efficient native Android applications and building cross-platform mobile apps using Flutter.
 - **DevOps**: Automating workflows, CI/CD pipelines, and containerization with Docker and Kubernetes.
+- **Web Development**: Crafting responsive and dynamic user experiences using frameworks like React and Vue.js.
 - **Open Source**: Contributing to open-source projects and sharing knowledge with the community.
 
 
