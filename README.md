@@ -14,8 +14,8 @@
 
 ### 🛠 Tech Stack
 
-- **Languages:** Python, Java, Kotlin, JavaScript, TypeScript, etc.
-- **Frameworks:** Django, Flask, Spring Boot, React, Vue.js, etc.
+- **Languages:** Python, Java, Kotlin, JavaScript, TypeScript, Dart etc.
+- **Frameworks:** Django, Flask, Spring Boot, React, Flutter, Vue.js, etc.
 - **Tools:** Docker, Kubernetes, Jenkins, etc.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salmanwahed&layout=compact&theme=radical)
